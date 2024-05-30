@@ -1,4 +1,7 @@
-# React & Tailwind CSS Starter Pack
+# React & Tailwind CSS 
+
+![counter app ](https://github.com/Pawan2030/Counter-App/assets/136910101/ff6d1643-b600-442d-a3d9-e0325bf94d98)
+
 
 This is a starter pack for creating React projects with Tailwind CSS configured. It uses React version **18.2** and Tailwind CSS version **3.2**.
 
